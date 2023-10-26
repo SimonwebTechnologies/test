@@ -1,0 +1,31 @@
+{
+"keys":
+    [
+        {
+        "crv": "P-256",
+        "kid": "nexi_enc",
+        "kty": "EC",
+        "use": "enc",
+        "x": "xrMWVeu6GqBxKix7jaR4hd5Sg8O_pg5lweF7HiCGCWo",
+        "x5c":
+            [
+            "MIIBuDCCAV6gAwIBAgIEZS+TuTAKBggqhkjOPQQDAjBkMQswCQYDVQQGEwJJVDEOMAwGA1UECAwFSXRhbHkxDzANBgNVBAcMBk1pbGFubzENMAsGA1UECgwETkVYSTESMBAGA1UECwwJU2ljdXJlenphMREwDwYDVQQDDAh0ZXN0X2p3ZTAeFw0yMzEwMTgwODEzNDVaFw0zMzEwMTgwODEzNDVaMGQxCzAJBgNVBAYTAklUMQ4wDAYDVQQIDAVJdGFseTEPMA0GA1UEBwwGTWlsYW5vMQ0wCwYDVQQKDARORVhJMRIwEAYDVQQLDAlTaWN1cmV6emExETAPBgNVBAMMCHRlc3RfandlMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExrMWVeu6GqBxKix7jaR4hd5Sg8O/pg5lweF7HiCGCWoeTqAY6+wn1rEjNWOteTGizWUZLtLQTDVc5rjV6qwEuDAKBggqhkjOPQQDAgNIADBFAiEAtyFfokBBXmQOfHmjj6onyTOCWn/N9GustjSgLIUVt9oCIGTcbJrxYxDUCqPj72p1icndQ7lOC1QMqJgZpccZ94ox"
+            ],
+        "x5t": "BluAYofyJRNR2D9hy9ZgDwRsrr8",
+        "y": "Hk6gGOvsJ9axIzVjrXkxos1lGS7S0Ew1XOa41eqsBLg"
+        },
+        {
+        "crv": "P-256",
+        "kid": "sign",
+        "kty": "EC",
+        "use": "sig",
+        "x": "xrMWVeu6GqBxKix7jaR4hd5Sg8O_pg5lweF7HiCGCWo",
+        "x5c":
+            [
+            "MIIBuDCCAV6gAwIBAgIEZS+TuTAKBggqhkjOPQQDAjBkMQswCQYDVQQGEwJJVDEOMAwGA1UECAwFSXRhbHkxDzANBgNVBAcMBk1pbGFubzENMAsGA1UECgwETkVYSTESMBAGA1UECwwJU2ljdXJlenphMREwDwYDVQQDDAh0ZXN0X2p3ZTAeFw0yMzEwMTgwODEzNDVaFw0zMzEwMTgwODEzNDVaMGQxCzAJBgNVBAYTAklUMQ4wDAYDVQQIDAVJdGFseTEPMA0GA1UEBwwGTWlsYW5vMQ0wCwYDVQQKDARORVhJMRIwEAYDVQQLDAlTaWN1cmV6emExETAPBgNVBAMMCHRlc3RfandlMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExrMWVeu6GqBxKix7jaR4hd5Sg8O/pg5lweF7HiCGCWoeTqAY6+wn1rEjNWOteTGizWUZLtLQTDVc5rjV6qwEuDAKBggqhkjOPQQDAgNIADBFAiEAtyFfokBBXmQOfHmjj6onyTOCWn/N9GustjSgLIUVt9oCIGTcbJrxYxDUCqPj72p1icndQ7lOC1QMqJgZpccZ94ox"
+            ],
+        "x5t": "BluAYofyJRNR2D9hy9ZgDwRsrr8",
+        "y": "Hk6gGOvsJ9axIzVjrXkxos1lGS7S0Ew1XOa41eqsBLg"
+        }
+    ]
+}
